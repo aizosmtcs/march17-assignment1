@@ -1,0 +1,17 @@
+{
+  "name": "march17-assignment1",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node assignment1.js",
+    "dev": "nodemon assignment1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

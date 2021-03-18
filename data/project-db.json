@@ -1,0 +1,20 @@
+{
+    "projects" : [
+    {
+        "id": 1,
+        "project_name": "Big Data"  
+    },{
+        "id": 2,
+        "project_name": "Augmented Reality"  
+    },{
+        "id": 3,
+        "project_name": "Machine Learning"  
+    },{
+        "id": 4,
+        "project_name": "Cloud Services"  
+    },{
+        "id": 5,
+        "project_name": "Virtual Reality"  
+    }
+    ]
+}
